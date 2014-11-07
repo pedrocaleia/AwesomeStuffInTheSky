@@ -8,6 +8,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-Ola Joka
+<div class="">
+    <p>Gajas Boas in te skype</p>
+    <img src="http://c2.quickcachr.fotos.sapo.pt/i/bf804c345/6847459_P86VL.jpeg"/>
+</div>
 </body>
 </html>
